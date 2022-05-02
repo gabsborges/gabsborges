@@ -20,5 +20,3 @@
 
  
 </div>
-- 🌱 Estudando back-end e front-end
-- 😄 Pronouns: Ele/Dele
